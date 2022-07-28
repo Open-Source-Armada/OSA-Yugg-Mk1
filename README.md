@@ -32,6 +32,8 @@ Two small prop tanks for 2 million prop, 50 mins estimated flight time.
 
 Uses basic FCU, no reverse, roll is performed using Roll_L and Roll_R buttons, this is to allow fast handling by isolating the roll thrusters from the FCU/MFC.
 
+Entry is through a small gap on both sides of the glass.
+
 
 
 //Cost//
