@@ -95,7 +95,7 @@ This can be done by rolling the ship, or by turning opposite to the orbit and tr
 
 4 guns are a minimum for dealing with competent meta fighters.
 
-Best employed as a moon gate escort ship, a station/cap ship defence fighter, or as an intro meta fighter for newer combat pilots taking a more leading role in frontling dogfighting.
+Best employed as a moon gate escort ship, a station/cap ship defence fighter, or as an intro meta fighter for newer combat pilots taking a more leading role in frontline dogfighting.
 
 It is also the middle ground of weapons value, autocannon, laser and plasma versions have near continuous firing guns, making all 3 excellent investments.
 
