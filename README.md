@@ -87,7 +87,7 @@ Almost all of the frontal armour is char, making this an aggresive front line br
 
 While this ship is a a orbit dogfighter, it is small enough to be used in gravity, making it perfect for escorting VIP's.
 
-Like all my ships, care has been taken to ensure the silhouette is as symetrical as possible, so as to reduce skilled pilots ability to issolate weakpoints (Like the cockpit)
+Like all my ships, care has been taken to ensure the silhouette is as symetrical as possible, so as to reduce skilled pilots ability to isolate weakpoints (Like the cockpit)
 
 Its also recomended to adjust your angle of attack when orbiting, to sprerad damage accross different plates, reducing the chance of a busted plate or a pen shot.
 
