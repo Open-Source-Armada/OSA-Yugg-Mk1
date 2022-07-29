@@ -28,7 +28,9 @@ Its primarlily plated using char across the front face of the ship, alloys are o
 
 Two small prop tanks for 2 million prop, 50 mins estimated flight time.
 
-2 T1 fuel chamber, 6 T1 generators, 6 T1 enhancers, 50 mins estimated fight time
+2 T1 fuel chamber, 6 T1 generators, 6 T1 enhancers, 50 mins estimated fight time.
+
+Basic script for current Fuel/Prop times.
 
 Uses basic FCU, no reverse, roll is performed using Roll_L and Roll_R buttons, this is to allow fast handling by isolating the roll thrusters from the FCU/MFC.
 
